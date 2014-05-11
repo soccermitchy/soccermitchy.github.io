@@ -1,0 +1,3 @@
+[submodule "equatio"]
+        path = equatio
+        url = https://github.com/nucular/equatio.git
